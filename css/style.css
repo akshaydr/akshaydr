@@ -3235,17 +3235,22 @@ h3 {
 
 /* line 75, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
 .sample-text-area {
-  background: #fff;
-  padding: 100px 0 70px 0;
+    background: #2B2B2B;
+    padding: 100px 0 70px 0;
 }
 
 /* line 80, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
 .text-heading {
   margin-bottom: 30px;
   font-size: 24px;
+  color: #fff
 }
 
 /* line 85, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
+p {
+    color: #fff;
+}
+
 b,
 sup,
 sub,
