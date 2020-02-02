@@ -3235,8 +3235,21 @@ h3 {
 
 /* line 75, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
 .sample-text-area {
-    background: #2B2B2B;
+    background: #1e1e1e;
     padding: 100px 0 70px 0;
+}
+
+.sample-text-area p {
+    color: #fff;
+}
+
+.whole-wrap {
+    background: #2b2b2b;
+    padding: 20px 0 70px 0;
+}
+
+.whole-wrap h3 {
+    color: #fff;
 }
 
 /* line 80, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
@@ -3248,15 +3261,16 @@ h3 {
 
 /* line 85, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
 p {
-    color: #fff;
+    font-size: 22px;
 }
+
 
 b,
 sup,
 sub,
 u,
 del {
-  color: #ff5e13;
+    color: #ff5e13;
 }
 
 /* line 93, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
@@ -4528,7 +4542,6 @@ h6 {
 /* line 1089, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
 .section-top-border {
   padding: 50px 0;
-  border-top: 1px dotted #eee;
 }
 
 /* line 1093, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
