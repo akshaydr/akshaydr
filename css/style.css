@@ -3252,6 +3252,32 @@ h3 {
     color: #fff;
 }
 
+.whole-wrap-light {
+  background: #1e1e1e;
+  padding: 50px 0 70px 0;
+}
+
+.whole-wrap-light h3 {
+  color: #fff;
+}
+
+.whole-wrap-light p {
+  color: #fff;
+}
+
+.whole-wrap-dark {
+  background: #2b2b2b;
+  padding: 50px 0 70px 0;
+}
+
+.whole-wrap-dark h3 {
+  color: #fff;
+}
+
+.whole-wrap-dark p {
+  color: #fff;
+}
+
 /* line 80, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
 .text-heading {
   margin-bottom: 30px;
