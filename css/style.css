@@ -1155,7 +1155,7 @@ h3 {
   left: 0;
   top: 160%;
   background: #fff;
-  width: 200px;
+  width: 240px;
   z-index: 2;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.02);
   opacity: 0;
@@ -1197,7 +1197,7 @@ h3 {
 /* line 240, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li:hover > .submenu {
   opacity: 1;
-  visibility: visible;
+  visibility: inherit;
   top: 150%;
 }
 
