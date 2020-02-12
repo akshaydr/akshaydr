@@ -3362,7 +3362,7 @@ h6 {
 
 /* line 146, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
 .button-group-area .genric-btn {
-  margin-right: 10px;
+  margin-right: 50px;
   margin-top: 10px;
 }
 
@@ -3789,25 +3789,7 @@ h6 {
   height: 14px;
 }
 
-/* line 455, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
-.unordered-list li {
-  position: relative;
-  padding-left: 30px;
-  line-height: 1.82em !important;
-}
 
-/* line 459, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
-.unordered-list li:before {
-  content: "";
-  position: absolute;
-  width: 14px;
-  height: 14px;
-  border: 3px solid #ff5e13;
-  background: #fff;
-  top: 4px;
-  left: 0;
-  border-radius: 50%;
-}
 
 /* line 473, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
 .ordered-list {
@@ -4569,6 +4551,13 @@ h6 {
 .section-top-border {
   padding: 50px 0;
 }
+
+.section-top-border hr {
+  height: 0.8px;
+  background-color:#fff;
+  margin-top: -20px;
+  margin-bottom: 30px;
+  }
 
 /* line 1093, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
 .mb-30 {
