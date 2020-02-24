@@ -9593,7 +9593,7 @@ textarea.form-control {
     display: inline-block;
     outline: none;
     line-height: 25px;
-    padding: 0 40px;
+    padding: 0 10px;
     border-radius: 8px;
     font-size: 1.0em;
     text-align: center;
