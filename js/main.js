@@ -352,7 +352,13 @@ window.onload = function() {
 
 
 
-
+/* magnificPopup img view */
+$('.img-pop-up').magnificPopup({
+	type: 'image',
+	gallery: {
+	  enabled: true
+	}
+});
 
 
 // this makes the height of each page equal to the height of the window

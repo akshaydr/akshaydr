@@ -9624,6 +9624,46 @@ textarea.form-control {
     background: #C4BEBE;
   }
 
+.single-gallery-image {
+  margin-top: 30px;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  height: 200px;
+}
+
+/* line 473, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
+.ordered-list {
+  margin-top: -10px;
+  margin-left: -20px;
+}
+
+/* line 475, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
+.ordered-list li {
+  color: #3e64ff;
+}
+
+/* line 480, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
+.ordered-list li span {
+  color: #6c757d;
+}
+
+/* line 488, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
+.ordered-list-alpha li {
+  margin-left: 30px;
+  color: #3e64ff;
+}
+
+
+
+/* line 502, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_elements.scss */
+.ordered-list-roman li {
+  margin-left: 30px;
+  color: #3e64ff;
+}
+
+
+
 #ftco-loader {
   position: fixed;
   width: 96px;
